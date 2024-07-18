@@ -1,0 +1,14 @@
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/bin/Debug/net8.0/YolArkadasiTatil
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/bin/Debug/net8.0/YolArkadasiTatil.deps.json
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/bin/Debug/net8.0/YolArkadasiTatil.runtimeconfig.json
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/bin/Debug/net8.0/YolArkadasiTatil.dll
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/bin/Debug/net8.0/YolArkadasiTatil.pdb
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.AssemblyInfoInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.AssemblyInfo.cs
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.csproj.CoreCompileInputs.cache
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.dll
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/refint/YolArkadasiTatil.dll
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.pdb
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/YolArkadasiTatil.genruntimeconfig.cache
+/Users/aliberkayberber/Documents/Pratikler/YolArkadasiTatil/obj/Debug/net8.0/ref/YolArkadasiTatil.dll
